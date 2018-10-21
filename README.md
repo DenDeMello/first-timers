@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Dennis Dmello
+- I'm passionate about Machine Learning and Artificial Intelligence.
+- I am a student.
+- My hobbies include coding, reading and painting..
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
